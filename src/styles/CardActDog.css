@@ -1,0 +1,15 @@
+.card-container {
+    width: calc(100% - 200px);
+    margin: 0 100px;
+    height: auto;
+    padding: 20px 0;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.75);
+    border: 2px solid #444444;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .card-image {
+    width: 100%;
+  }
